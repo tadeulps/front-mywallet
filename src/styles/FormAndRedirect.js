@@ -5,7 +5,7 @@ const Box=styled.div`
     flex-direction:column;
     align-items:center;
 `
-const Form=styled.div`
+const Form=styled.form`
     display: flex;
     flex-direction: column;
     width: 90%;
